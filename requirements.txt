@@ -1,0 +1,9 @@
+# Lower bounds, not pins.
+#
+#   python3 -m pip install -r requirements.txt
+
+numpy>=1.24,<3
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+torch>=2.0
